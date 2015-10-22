@@ -1,5 +1,5 @@
 {
-  "name": "lb-connector-mandrill",
+  "name": "loopback-connector-mandrill",
   "version": "0.0.1",
   "description": "Loopback connector module which allow to send emails via Mandrill",
   "main": "index.js",
@@ -7,7 +7,6 @@
     "loopback",
     "mandrill",
     "connector",
-    "evenemento",
     "templates"
   ],
   "author": {
